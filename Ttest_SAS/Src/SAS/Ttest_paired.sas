@@ -63,7 +63,7 @@ cohens_d = (mean-&H0)/stdev;
 proc print data=project.cd_pttest;
 run;
 
-%mend sortandprint;
+%mend cohens_ttest;
 
 %cohens_ttest(data=project.ttestp,var1=New_Test_score,var2=Old_Test_score,H0=0);
 	
