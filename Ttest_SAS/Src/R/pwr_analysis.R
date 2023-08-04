@@ -1,0 +1,5 @@
+install.packages('pwr')
+library(pwr)
+pwr.t.test(d=(0-5)/5,power=0.8,sig.level=0.05,type="two.sample",alternative="two.sided")
+pwr.t.test(d=(0-5)/5,power=0.8,sig.level=0.05,type="paired",alternative="two.sided")
+pwr.t.test(d=(0-5)/5,power=0.8,sig.level=0.05,type="one.sample",alternative="two.sided")

@@ -1,0 +1,12 @@
+There was a significant difference in distance run between the carb only
+treatment (11.17±.73) and the Carb+protein treatment (11.30±.71), t(19) = -
+6.35, p = .003. Thus, the new sport drink did improve athletic performance.
+• d = 1.42
+• With this, The null hypothesis will be rejected.
+
+
+People were assessed for mischievous behaviour when wearing an invisibility cloak
+as opposed to not wearing an invisibility cloak. The number of mischievous acts
+committed with a cloak as compared to no cloak were (5.0+1.65 vs. 3.75+1.91:
+Mean+SD) The difference was statistically significant t11 = -3.804, p=.003.
+• The effect size was calculated as d= 1.098
